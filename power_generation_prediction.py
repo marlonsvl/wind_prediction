@@ -11,16 +11,11 @@ import csv
 import streamlit as st
 import IPython
 import IPython.display
-import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import tensorflow as tf
 from keras import backend as K
-#mpl.rcParams['figure.figsize'] = (8, 6)
-#mpl.rcParams['axes.grid'] = False
-import matplotlib.image  as mpimg
-import matplotlib.pyplot as plt
 
 def main():
   st.set_option('deprecation.showPyplotGlobalUse', False)

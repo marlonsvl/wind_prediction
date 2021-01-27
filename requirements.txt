@@ -4,7 +4,7 @@ streamlit
 pandas
 IPython
 IPython.display
-matplotlib
+matplotlib.pyplot
 numpy
 seaborn
 tensorflow
